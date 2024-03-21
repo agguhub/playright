@@ -7,6 +7,5 @@ RUN apt-get update && \
 RUN npm install npm@latest -g && \
     npm install n -g && \
     n latest
-RUN npm init playwright@latest
 WORKDIR /var/www/html
 CMD [ "php","-S","0.0.0.0:8000" ]

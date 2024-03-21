@@ -1,0 +1,1 @@
+apt-get install libnss3 libnspr4 libatk1.0-0 libatk-bridge2.0-0 libcups2 libatspi2.0-0 libxdamage1 libxkbcommon0 libpango-1.0-0 libcairo2 libasound2
